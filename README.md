@@ -1,10 +1,11 @@
-# repo
 # Ejercicio Read.me
 ## Laboratorio de computacion
-* **Correa** Lautaro
+## Autor
+* **Correa** Lautaro 
+
 | Nombre | mail |
 |--------|------|
-| Lautaro | 2223294@ucc.edu.ar |
+|Lautaro|2223294@ucc.edu.ar|
 
 :+1:
 :rofl:	
@@ -13,4 +14,12 @@
 **Sistemas Operativos**
 * Herramientas de _desarrollo_
     * Git
-    * [**Git avanzado**](https://ucc-labcompu2.github.io/filminas/U2_git_avanzado.html#/11)
+    
+
+[**Link Proyecto**](https://github.com/UCC-LabCompu2/ejercicios2022-lautarocorrea1/blob/main/README.md)
+
+
+
+
+
+
