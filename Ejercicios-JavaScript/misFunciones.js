@@ -48,5 +48,14 @@ function convertirGR(id){
     document.getElementById(elementId:"radianes").value = rad;
 }
 
+function mostrar_ocultar(valorMo) {
+    if (valorMO=="val_mostrar") {
+        document.getElementById(elementId: "divMO").style.display = 'block';
+    }else if (valorMo=="val_ocultar"){
+        document.getElementById(elementId: "divMO").style.display = 'none';
+
+    }
+
+}
 
 
